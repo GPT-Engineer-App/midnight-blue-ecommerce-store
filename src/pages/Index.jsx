@@ -100,6 +100,9 @@ const Index = () => {
                   Edit
                 </Button>
               )}
+              <Button colorScheme="green" mt={4}>
+                Buy
+              </Button>
             </Box>
           </Box>
         ))}
